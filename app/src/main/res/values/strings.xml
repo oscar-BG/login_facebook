@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">workshops</string>
+
+    <string name="facebook_app_id">193815776850767</string>
+    <string name="fb_login_protocol_scheme">fb193815776850767</string>
+    <string name="facebook_client_token">5c174c42cac8dbc1df57cdfe82ac7cfa</string>
+</resources>
